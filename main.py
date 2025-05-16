@@ -6,3 +6,6 @@ def adicionar10():
 print(x)
 adicionar10()
 print(x)
+
+def duplicar():
+    x *= 2
