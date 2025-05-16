@@ -1,4 +1,4 @@
-x = 10
+x = 5
 
 def adicionar10():
     x+= 10
