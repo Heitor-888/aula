@@ -3,9 +3,12 @@ x = 5
 def adicionar10():
     x += 10
 
-print(x)
-adicionar10()
-print(x)
-
 def duplicar():
     x *= 2
+
+def printarX():
+    print(x)
+
+printarX()
+adicionar10()
+printarX()
