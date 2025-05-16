@@ -9,6 +9,9 @@ def duplicar():
 def printarX():
     print(x)
 
+def incrementarX():
+    x += 1
+
 print(x + 10)
 printarX()
 adicionar10()
